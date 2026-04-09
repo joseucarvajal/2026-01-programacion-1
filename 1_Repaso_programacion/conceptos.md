@@ -47,4 +47,7 @@ Lo anterior es programar porque involucra diferentes procesos de pensamiento y d
 
     7. Programación Orientada a Objetos (Programación 1)
 
+# Git and GitHub:
+- Youtube video: https://www.youtube.com/watch?v=lGfuztkRr4k&t=3s
+
 
