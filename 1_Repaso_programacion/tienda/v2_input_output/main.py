@@ -1,5 +1,5 @@
 '''
-    Tienda V1
+    Tienda V2
 
     Qué incluye:
         - Variables

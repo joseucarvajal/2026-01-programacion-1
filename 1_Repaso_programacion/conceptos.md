@@ -31,10 +31,10 @@ Lo anterior es programar porque involucra diferentes procesos de pensamiento y d
         - Mientras hayan días de vacaciones, programo una actividad
             - 1er día (hay días de vacaciones?) -> SI(true) -> entonces vamos a la playa
             - 2do día (hay días de vacaciones?) -> SI(true) -> entonces vamos a una isla privada
-            - 3er día (hay días de vacaciones?) -> SI -> entonces vamos a un paseo en yate
-            - 4to día (hay días de vacaciones?) -> SI -> entonces vamos a la playa
-            - 5to día (hay días de vacaciones?) -> SI -> entonces vamos a una actividad recreativa
-            - 6to día (hay días de vacaciones?) -> NO -> entonces FIN.
+            - 3er día (hay días de vacaciones?) -> SI(true) -> entonces vamos a un paseo en yate
+            - 4to día (hay días de vacaciones?) -> SI(true) -> entonces vamos a la playa
+            - 5to día (hay días de vacaciones?) -> SI(true) -> entonces vamos a una actividad recreativa
+            - 6to día (hay días de vacaciones?) -> NO(false) -> entonces FIN.
     
     5. Control de errores / control de Excepciones
         - De repente ocurre un accidente. Necesito un plan: comprar un seguro, ir al hospital... etc
