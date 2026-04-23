@@ -1,0 +1,3 @@
+class Tienda:
+    nombre: str
+    
