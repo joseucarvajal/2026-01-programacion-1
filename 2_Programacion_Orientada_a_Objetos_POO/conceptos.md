@@ -14,13 +14,14 @@ Con un sólo molde puedo hacer muchas galletas, en programación con una sola CL
 # 1. Clase: Es el molde (Plantilla, blueprint, modelo) para crear objetos: Producto, Tienda
 # 2. Objeto: Instancia de una clase: producto1, producto2, producto3... productoN
 # 3. Atributo (propiedad): Una característica que pueden tener los objetos de una misma clase.
-# 4. Métodos: 
+# 4. Métodos: Actividades repetitivas
     - Método constructor: 
 
 
 # Pilares
 ## 1. Abstracción: Tomar lo escencial (estrictamente necesario) a la hora de crear una o muchas clases.
 ## 2. Encapsulamiento:
-## 3. Herencia: 
-## 4. Polimorfismo: 
+## 3. Composición
+## 5. Herencia: 
+## 6. Polimorfismo: 
 
