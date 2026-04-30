@@ -11,7 +11,7 @@ producto1.descuento = float(input("Ingrese el descuento del producto 1: "))
 # Problema 1: Yo puedo crear un producto sin nombre, sin precio o sin descuento, 
 # lo cual no tiene sentido, porque un producto siempre debería tener un nombre, un precio y un descuento (aunque sea 0)
 producto2 = Producto()
-producto2.precio = float(input("Ingrese el precio del producto 2: "))
+#producto2.precio = float(input("Ingrese el precio del producto 2: "))
 producto2.nombre = input("Ingrese el nombre del producto 2: ")
 producto2.descuento = float(input("Ingrese el descuento del producto 2: "))
 
